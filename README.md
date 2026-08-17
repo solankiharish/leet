@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1563-stone-game-v](https://github.com/solankiharish/leet/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/solankiharish/leet/tree/master/2029-stone-game-ix) |
 ## Math
 |  |
 | ------- |
+| [1563-stone-game-v](https://github.com/solankiharish/leet/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/solankiharish/leet/tree/master/2029-stone-game-ix) |
 ## Greedy
 |  |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1563-stone-game-v](https://github.com/solankiharish/leet/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/solankiharish/leet/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -33,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/solankiharish/leet/tree/master/2029-stone-game-ix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1563-stone-game-v](https://github.com/solankiharish/leet/tree/master/1563-stone-game-v) |
 <!---LeetCode Topics End-->
