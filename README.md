@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1563-stone-game-v](https://github.com/solankiharish/leet/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/solankiharish/leet/tree/master/2029-stone-game-ix) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/solankiharish/leet/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Math
 |  |
 | ------- |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/solankiharish/leet/tree/master/1563-stone-game-v) |
+## Hash Table
+|  |
+| ------- |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/solankiharish/leet/tree/master/3471-find-the-largest-almost-missing-integer) |
 <!---LeetCode Topics End-->
