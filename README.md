@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/solankiharish/leet/tree/master/0258-add-digits) |
 | [1563-stone-game-v](https://github.com/solankiharish/leet/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/solankiharish/leet/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/solankiharish/leet/tree/master/1927-sum-game) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/solankiharish/leet/tree/master/0258-add-digits) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/solankiharish/leet/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Binary Search
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/solankiharish/leet/tree/master/0258-add-digits) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/solankiharish/leet/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## String
 |  |
